@@ -5,4 +5,4 @@
 3. git add . 対象フォルダ内のすべてのフォルダ/ファイルをステージング
 4. git commit -m “メモ “ ステージングしたファイルを保存（”　”内メモ書き）
 5. git remote add origin url名　 リモートリポジトリとの関連付け
-6. git push -u origin main mainにアップロード
+6. git push -u origin main   ←mainにアップロード
