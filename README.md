@@ -6,3 +6,6 @@
 4. git commit -m “メモ “ ステージングしたファイルを保存（”　”内メモ書き）
 5. git remote add origin url名　 リモートリポジトリとの関連付け
 6. git push -u origin main   ←mainにアップロード
+ 
+macOS 10.13.3
+Python 3.8.3
